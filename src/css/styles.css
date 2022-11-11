@@ -1,0 +1,28 @@
+
+html, body {
+    padding-top: 15px;
+}
+
+.main-content {
+    background-color: #ECEBEB;
+    width: 100%;
+    height: 100%;
+}
+
+.hcard {
+    height: 100%;
+    width: 118px;
+    text-align: center;
+    font-family: Montserrat;
+    cursor: pointer;
+}
+
+.c-book {
+    height: 100%;
+}
+
+.c-text {
+    text-align: justify;
+}
+
+
